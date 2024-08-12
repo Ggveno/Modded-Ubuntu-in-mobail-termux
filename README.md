@@ -7,13 +7,12 @@ Secondly Clone the Repository & Run the setup File
 
 
 
-yes | pkg up pkg install git wget -y git clone --depth=1
+yes | pkg up pkg install git wget -y 
 
 
 
 
-
-https://github.com/modded-ubuntu/modded-ubuntu.git
+git clone --depth=1https://github.com/modded-ubuntu/modded-ubuntu.git
 
 
 
