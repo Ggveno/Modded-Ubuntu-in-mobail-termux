@@ -1,7 +1,9 @@
 # Modded-Ubuntu-in-mobail-termux
 Data based
 Linux-in-termux-ubuntu
-
+<p align="center">
+<img src="./distro/image.jpg">
+</p>
 
 Secondly Clone the Repository & Run the setup File
 
